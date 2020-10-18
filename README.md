@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-NLW3 - Project in working 🚧
+NLW3 
 </h4>
 
 
